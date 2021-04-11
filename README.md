@@ -3,6 +3,9 @@
 </div>
 <br/><br/>
 
+<p align="center">Make it simple. Make it memorable. Make it inviting to look at. Make it fun to read.<br />- Leo Burnett -</p>
+<br/><br/>
+
 <h3 align="center">OS</h3>
 
 <div align="center">
