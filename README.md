@@ -1,11 +1,13 @@
-<p align="center" >
-    <img width="72" height="72"  src="https://github.com/ujon/ujon/blob/master/images/2.svg" />
-</p>
-
-<div style="display: flex;">
-    <img style="flex: 1;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujon&layout=compact&theme=radical" />
-    <img style="flex: 1;" src="https://github-readme-stats.vercel.app/api?username=ujon&hide_title=true&show_icons=true&theme=radical" />
+<div align="center" >
+    <img width="72" height="72"  src="https://github.com/ujon/ujon/blob/master/images/logo/ujon-v1.svg" />
 </div>
-<br />
 
-> Make it simple. Make it memorable. Make it inviting to look at. Make it fun to read. - Leo Burnett -
+<h3 align="center">OS</h3>
+
+<div align="center">
+    <img src="https://github.com/ujon/ujon/blob/master/images/os/windows.svg" alt="windows"  width="56" height="56" />
+    &nbsp;    
+    <img src="https://github.com/ujon/ujon/blob/master/images/os/macOS.svg" alt="macOS" width="56" height="56" />
+    &nbsp; 
+    <img src="https://github.com/ujon/ujon/blob/master/images/os/ubuntu.svg" alt="ubuntu" width="56" height="56" />
+</div>
