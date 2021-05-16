@@ -72,6 +72,8 @@
 </div>
 <br/><br/>
 
-<p align="center">
-    <a href="https://app.gitbook.com/@ujon/s/ujon/git/convention">Git Convention</a>
-</p>
+<div align="center">
+    <a href="https://www.notion.so/ujon/Public-3f6cec7628854a9f8483228af6689d97">
+        <img src="https://github.com/ujon/ujon/blob/master/images/tool/notion.svg" alt="notion"  width="36" height="36" />
+    </a>
+</div>
